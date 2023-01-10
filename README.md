@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Salaam%F0%9F%91%8B.....;Welcome+to+my+profile%F0%9F%98%8D"
+        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Assalam Alaikum%F0%9F%91%8B.....;Welcome+to+my+profile%F0%9F%98%8D"
             alt="Typing SVG"
         />
     </a>
@@ -81,7 +81,7 @@
       
 ## 📊 Github Stats:
 
-![Metrics](https://metrics.lecoq.io/darkhunter254?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)            
+![Metrics](https://metrics.lecoq.io/spiderx11?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)            
       
 ## 🔰 Dev Quote:
 
