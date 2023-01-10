@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darkhunter254/darkhunter254.git">
+  <a href="https://github.com/spiderx11/spiderx11.git">
     <img src="https://komarev.com/ghpvc/?username=darkhunter254&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
 
   </a>
-  <a href="https://github.com/darkhunter254?tab=stars">
+  <a href="https://github.com/spiderx11?tab=stars">
     <img src="https://img.shields.io/github/stars/darkhunter254?color=ff69b4&label=Stargazers&style=flat">
 
   </a>
-  <a href="https://github.com/https://github.com/darkhunter254?tab=followers">
+  <a href="https://github.com/https://github.com/spiderx11?tab=followers">
     <img src="https://img.shields.io/github/followers/darkhunter254?color=ff69b4&label=Followers&style=flat">
 
 ## 🙂 About Me:
