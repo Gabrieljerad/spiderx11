@@ -2,11 +2,11 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=AssalamAlaikum%F0%9F%91%8B....%F0%9F%98%8D"
+        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=AssalamAlaikum%F0%9F%91%8B"
             alt="Typing SVG"
         />
     </a>
-</p>c
+</p>
     <p align="center"><img src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg"/>
     </br><code>🦈 import { focus, life } from 'life-script' 🦈</code>
 </p>
