@@ -13,15 +13,15 @@
 
 <p align="center">
   <a href="https://github.com/spiderx11/spiderx11.git">
-    <img src="https://komarev.com/ghpvc/?username=darkhunter254&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=spiderx11&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
 
   </a>
   <a href="https://github.com/spiderx11?tab=stars">
-    <img src="https://img.shields.io/github/stars/darkhunter254?color=ff69b4&label=Stargazers&style=flat">
+    <img src="https://img.shields.io/github/stars/spiderx11?color=ff69b4&label=Stargazers&style=flat">
 
   </a>
   <a href="https://github.com/https://github.com/spiderx11?tab=followers">
-    <img src="https://img.shields.io/github/followers/darkhunter254?color=ff69b4&label=Followers&style=flat">
+    <img src="https://img.shields.io/github/followers/spiderx11?color=ff69b4&label=Followers&style=flat">
 
 ## 🙂 About Me:
 
