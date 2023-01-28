@@ -48,7 +48,7 @@
     
 ## 🎵 Playlist:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&cover_image=true&theme=compact&show_offline=false&background_color=121212)    
+# ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&cover_image=true&theme=compact&show_offline=false&background_color=121212)    
 
 ## 📚 Languages:
 <p align="left">
