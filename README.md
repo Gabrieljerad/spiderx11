@@ -39,7 +39,7 @@
 
 - 👑 Founder of `🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃`
 
- ### Skills:
+ ### 📚 Languages:
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -71,12 +71,6 @@
 ## 🎵 Playlist:
 
 # ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&cover_image=true&theme=compact&show_offline=false&background_color=121212)    
-
-## 📚 Languages:
-<p align="left">
-<a href="https://www.typescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/></a>      
-</p>
           
 ## 📇 Databases:
 <p align="left">
@@ -90,7 +84,8 @@
 <a href="https://code.npmjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="70" height="70"/> </a>      
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>      
 <a href="https://www.git.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="70" height="70"/> </a>
-</p>      
+</p>  
+## Test🗿    
     
 ## 📡 Servers & Hosts:
 <p align="left">      
