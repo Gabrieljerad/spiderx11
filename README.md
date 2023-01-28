@@ -47,7 +47,7 @@
 </p>
 ## Top repo: 
   <a href="https://github.com/spiderx11/spiket">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chauhanshivam079&repo=I-Bot&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spiderx11&repo=spike&theme=dark" />
 </a>
   
 ## 🎵 Playlist:
