@@ -29,7 +29,7 @@
 
 - 🎋 Just trying ^_^
 
-- 🏗 I'm currently working with [`Malik.`](https://github.com/malik4041)
+- 🏗 I'm currently working with [`🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃.`](https://github.com/spiderx11/spike)
 
 - 🚀 In love with WhatsApp bots.
 
@@ -37,7 +37,7 @@
 
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
-- 👑 Founder of `Dark-Moon`
+- 👑 Founder of `🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃`
       
 ## 📬 Contact Me:     
 <p align="left">      
