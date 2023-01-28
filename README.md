@@ -85,9 +85,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>      
 <a href="https://www.git.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="70" height="70"/> </a>
 </p>  
-## Test🗿
-![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=spiderx11&theme=tokyonight)    
-    
+       
 ## 📡 Servers & Hosts:
 <p align="left">      
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> </a> 
@@ -99,8 +97,8 @@
       
 ## 📊 Github Stats:
 
-![Metrics](https://metrics.lecoq.io/spiderx11?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)            
-      
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=spiderx11&theme=tokyonight)
+
 ## 🔰 Dev Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
