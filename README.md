@@ -38,7 +38,25 @@
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
 - 👑 Founder of `🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃`
-      
+
+ ### Skills:
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
+
+
+<a href="https://github.com/Shubhamrawat5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderx11&theme=dark" />
+</a>
+     
 ## 📬 Contact Me:     
 <p align="left">      
 <a href="https://instagram.com/__texas_finest" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram" height="70" width="70" /></a>
