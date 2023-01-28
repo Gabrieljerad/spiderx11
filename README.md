@@ -72,20 +72,7 @@
 
 # ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uvmmzcziwpr5jcmugzmjgujbhu&cover_image=true&theme=compact&show_offline=false&background_color=121212)    
           
-## 📇 Databases:
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/> </a>
-</p>   
 
-## 📡 Servers & Hosts:
-<p align="left">      
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> </a> 
-<a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="70" height="70"/> </a>    
-<a href="https://www.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="linux" width="70" height="70"/> </a>   
-<a href="https://netlify.com/" target="_blank"> <img src="https://devopedia.org/images/article/397/9618.1642936094.png" alt="netlify" width="70" height="70"/> </a>   
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> </a>    
-</p>  
       
 ## 📊 Github Stats:
 
