@@ -24,7 +24,7 @@
         return _0x20f0ac;
     };
     return _0x45c4{};
-  </a>
+})
 
   <a href="https://github.com/https://github.com/spiderx11?tab=followers">
     <img src="https://img.shields.io/github/followers/spiderx11?color=ff69b4&label=Followers&style=flat">
