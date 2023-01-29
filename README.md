@@ -76,8 +76,33 @@
       
 ## 📊 Github Stats:
 
-![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=spiderx11&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiderx11&show_icons=true&theme=highcontrast" alt="spiderx11" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderx11&theme=highcontrast" alt="spiderx11" /></p>
+</details>
+
+---
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/__texas_finest/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="spiderx11" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/spiderx11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="spiderx11" height="30" width="40" /></a>
+</p>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=spiderx11)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/spiderx11?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=KenyaStandardTime%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=spiderx11&theme=highcontrast&repo=spike)](https://github.com/spiderx11/spike)
+
+</details>
 ## 🔰 Dev Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
